@@ -11,6 +11,7 @@ env:
   SUBSCRIPTION-ID: 33b1f1b3-273b-415d-a445-7ed22d7bdaae	
   WEBAPP-NAME: devops-webapp-westeurope-1344310505
 
+
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
